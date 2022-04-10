@@ -1,0 +1,8 @@
+
+
+article{
+    /* to center a dive we have to change its dimensions so that is wiedth height*/
+    width: 640px;
+    height: 700px;
+    margin: 0 auto;   
+}
