@@ -1,8 +1,12 @@
 
 
 article{
-    /* to center a dive we have to change its dimensions so that is wiedth height*/
+    /* to center a div we have to change its dimensions so that is width height*/
     width: 640px;
     height: 700px;
     margin: 0 auto;   
+}
+
+h1{
+    font-size: 40px;
 }
